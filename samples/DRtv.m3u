@@ -1,0 +1,20 @@
+#EXT-X-STREAM-INF:BANDWIDTH=363000,RESOLUTION=480x270,CODECS="avc1.42001e, mp4a.40.2"
+http://dr05-lh.akamaihd.net/i/live/dr05_0@147058/index_300_av-p.m3u8?sd=10&dw=40&b=100-10000&set-akamai-hls-revision=custom&rebase=on
+#EXT-X-STREAM-INF:BANDWIDTH=363000,RESOLUTION=480x270,CODECS="avc1.42001e, mp4a.40.2"
+http://dr05-lh.akamaihd.net/i/live/dr05_0@147058/index_300_av-b.m3u8?sd=10&dw=40&b=100-10000&set-akamai-hls-revision=custom&rebase=on
+#EXT-X-STREAM-INF:BANDWIDTH=928000,RESOLUTION=640x360,CODECS="avc1.4d001f, mp4a.40.2"
+http://dr05-lh.akamaihd.net/i/live/dr05_0@147058/index_800_av-p.m3u8?sd=10&dw=40&b=100-10000&set-akamai-hls-revision=custom&rebase=on
+#EXT-X-STREAM-INF:BANDWIDTH=928000,RESOLUTION=640x360,CODECS="avc1.4d001f, mp4a.40.2"
+http://dr05-lh.akamaihd.net/i/live/dr05_0@147058/index_800_av-b.m3u8?sd=10&dw=40&b=100-10000&set-akamai-hls-revision=custom&rebase=on
+#EXT-X-STREAM-INF:BANDWIDTH=1227000,RESOLUTION=768x432,CODECS="avc1.4d001f, mp4a.40.2"
+http://dr05-lh.akamaihd.net/i/live/dr05_0@147058/index_1100_av-p.m3u8?sd=10&dw=40&b=100-10000&set-akamai-hls-revision=custom&rebase=on
+#EXT-X-STREAM-INF:BANDWIDTH=1227000,RESOLUTION=768x432,CODECS="avc1.4d001f, mp4a.40.2"
+http://dr05-lh.akamaihd.net/i/live/dr05_0@147058/index_1100_av-b.m3u8?sd=10&dw=40&b=100-10000&set-akamai-hls-revision=custom&rebase=on
+#EXT-X-STREAM-INF:BANDWIDTH=1827000,RESOLUTION=1024x576,CODECS="avc1.4d001f, mp4a.40.2"
+http://dr05-lh.akamaihd.net/i/live/dr05_0@147058/index_1700_av-p.m3u8?sd=10&dw=40&b=100-10000&set-akamai-hls-revision=custom&rebase=on
+#EXT-X-STREAM-INF:BANDWIDTH=1827000,RESOLUTION=1024x576,CODECS="avc1.4d001f, mp4a.40.2"
+http://dr05-lh.akamaihd.net/i/live/dr05_0@147058/index_1700_av-b.m3u8?sd=10&dw=40&b=100-10000&set-akamai-hls-revision=custom&rebase=on
+#EXT-X-STREAM-INF:BANDWIDTH=3128000,RESOLUTION=1280x720,CODECS="avc1.640029, mp4a.40.2"
+http://dr05-lh.akamaihd.net/i/live/dr05_0@147058/index_3000_av-p.m3u8?sd=10&dw=40&b=100-10000&set-akamai-hls-revision=custom&rebase=on
+#EXT-X-STREAM-INF:BANDWIDTH=3128000,RESOLUTION=1280x720,CODECS="avc1.640029, mp4a.40.2"
+http://dr05-lh.akamaihd.net/i/live/dr05_0@147058/index_3000_av-b.m3u8?sd=10&dw=40&b=100-10000&set-akamai-hls-revision=custom&rebase=on
